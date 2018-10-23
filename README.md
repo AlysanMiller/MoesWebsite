@@ -16,3 +16,20 @@ Some other local restaurants' websites are:
     <li>http://www.brandonsbbq.com</li>
     </ul>
 </p>
+
+<p>
+A chain restaurant's website is:
+  <ul>
+    <li>https://www.olivegarden.com/home</li>
+  </ul>
+</p>
+
+<p>
+These websites are good examples of well designed websites because they are:
+  <ul>
+    <li>Visually appealing</li>
+    <li>Easy to navigate</li>
+    <li>Contain necessary store info and hours</li>
+    <li>Contain a food menu</li>
+    <li>Contain links to order online.</li>
+  </ul>
